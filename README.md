@@ -1,7 +1,4 @@
- <p align="center">
-  <img src=" ExpenseTrackerbanner.jpeg" width="800"/>
-</p>
-
+ <img src="banner.jpg" alt="Banner" width="100%">
 
 
 # 💰 Smart Expense Tracker (Java)
