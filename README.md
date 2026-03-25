@@ -78,7 +78,7 @@ ExpenseTracker/
 │   ├── ExpenseManager.java
 │   ├── Main.java          (Console Version)
 │   ├── ExpenseGUI.java    (GUI Version)
-│   ├── expenses.txt           (Data storage file)
+│   ├── expenses.txt       (Data storage file)
 │── README.md
 ```
 ---
