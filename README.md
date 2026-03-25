@@ -1,5 +1,5 @@
  <p align="center">
-  <img src=" ExpenseTracker banner.jpeg" width="800"/>
+  <img src=" ExpenseTrackerbanner.jpeg" width="800"/>
 </p>
 
 
