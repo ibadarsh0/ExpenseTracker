@@ -70,13 +70,16 @@ This application allows users to:
 
 ---
 
- ExpenseTracker/
+ ## 📂 Project Structure
+
+
+ExpenseTracker/
 │── src/
-│   ├── Expense.java
-│   ├── ExpenseManager.java
-│   ├── Main.java          (Console Version)
-│   ├── ExpenseGUI.java    (GUI Version)
-│── expenses.txt           (Data storage file)
+│ ├── Expense.java
+│ ├── ExpenseManager.java
+│ ├── Main.java       (Console Version)
+│ ├── ExpenseGUI.java (GUI Version)
+│ ├── expenses.txt    (Data storage file)
 │── README.md
 
 ---
