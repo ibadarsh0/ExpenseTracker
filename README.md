@@ -69,19 +69,18 @@ This application allows users to:
 * Date & Time API (LocalDate)
 
 ---
+## 📂 Project Structure
 
- ## 📂 Project Structure
-
-
+```
 ExpenseTracker/
 │── src/
-│ ├── Expense.java
-│ ├── ExpenseManager.java
-│ ├── Main.java       (Console Version)
-│ ├── ExpenseGUI.java (GUI Version)
-│ ├── expenses.txt    (Data storage file)
+│   ├── Expense.java
+│   ├── ExpenseManager.java
+│   ├── Main.java          (Console Version)
+│   ├── ExpenseGUI.java    (GUI Version)
+│   ├── expenses.txt           (Data storage file)
 │── README.md
-
+```
 ---
 
 ## ⚙️ How to Run the Project
